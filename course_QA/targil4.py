@@ -1,0 +1,5 @@
+name = input("insert the name\n")
+currnentyear = int(input("insert the current year\n"))
+age = int(input("insert your age\n"))
+futureyear = int(input("insert the future year\n"))
+print(f"{name} will be {futureyear - currnentyear + age} in the year {futureyear}")

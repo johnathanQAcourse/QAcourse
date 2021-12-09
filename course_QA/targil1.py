@@ -1,0 +1,6 @@
+num1 = int(input("print num1\n"))
+num2 = int(input("print num2\n"))
+print(f"{num1}+{num2} = {num1+num2}")
+print(f"{num1}-{num2} = {num1-num2}")
+print(f"{num1}*{num2} = {num1*num2}")
+print(f"{num1}/{num2} = {int(num1/num2)}")
